@@ -35,3 +35,4 @@ int main(){
     c.inspect_tampering(tampered, s);
     return 0;
 }
+HASH_AUTOR=131425a92a75db9ebf5c217468ef295460b916266ce67e41ed33567d2c264caf
